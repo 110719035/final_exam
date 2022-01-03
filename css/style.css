@@ -1,0 +1,25 @@
+.big
+{
+    font-family:Arial;
+    color: blue;
+}
+.inside
+{
+    font-family:Helvetica;
+    
+}
+.orange
+{
+    background-color: red;
+    width: 120px;
+    border-radius: 25px;
+    position: absolute;
+}
+.broccoli
+{
+    background-color: yellow;
+    width: 120px;
+    border-radius: 25px;
+    position: absolute;
+    margin-left: 125px;
+}
